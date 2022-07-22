@@ -1,16 +1,16 @@
 # LootCrate
-Super simple Implementation to have a locally hosted Webservice of a loot crate.
+Super simple implementation to have a locally hosted webservice of a loot crate.
 
-can't store anything but double values. why? cause i don't need anything else lol.
+Can't store anything but double values. Why? Cause i don't need anything else lol.
 
 # Planned tech stack
-- spring boot as framework
-- react as frontend
-- database? probably in memory
+- Spring Boot as framework
+- React as frontend
+- database? probably inmemory
 
-# What for? Any old Piece of Paper can do that.
+# What for? Any old piece of paper can do that.
 100% to learn:
-- Mentioned Tech Stack
+- mentioned tech stack
 - Clean Code
 - Clean Architecture
 - Behaviour Driven Development
